@@ -1,0 +1,68 @@
+{
+    "success": true,
+    "message": "تم جلب السجل",
+    "data": {
+        "id": "9f30f2a3-1e3c-46f7-a0f9-7a3df96b6694",
+        "formNumber": "202670635",
+        "selfId": "M811058",
+        "incomingRegistryNumber": "K261027-48",
+        "ministry": "وزارة الدفاع",
+        "orgLevel1": "إدارة التدريب",
+        "fullName": "خالد محمد ليلا",
+        "motherName": "سوسن الفرحان الخضر",
+        "orgLevel2": "مدرسة المشاة",
+        "orgLevel3": "مركز النبك 1",
+        "jobTitle": "حرس",
+        "jobTitleId": "0ad2336a-1ab9-4499-9173-d4ee0444523d",
+        "workplace": "دمشق",
+        "wivesCount": 0,
+        "childrenCount": 0,
+        "birthDate": "2002-08-06",
+        "nationalId": "03090016444",
+        "academicDegree": "تاسع",
+        "salaryUsd": 175.00,
+        "workSchedule": "نوبات",
+        "originGovernorate": "ريف دمشق",
+        "originCountry": "حفير الفوقا",
+        "residenceGovernorate": "ريف دمشق",
+        "currentResidence": "حفير الفوقا",
+        "recruitmentBranchGovernorate": "غير محدد",
+        "extraFields": {
+            "تاريخ البدء": "2025-08-01",
+            "تاريخ الانتهاء": "2027-04-15"
+        },
+        "documents": [
+            {
+                "id": "7775d83f-5f2e-4bf9-bb97-c0356a04b8c4",
+                "docType": "PROFILE_PHOTO",
+                "originalName": "23-خالد محمد ليلا.jpg",
+                "mimeType": "image/jpeg",
+                "fileSize": 80484,
+                "uploadedAt": "2026-10-29T10:52:27.897766"
+            },
+            {
+                "id": "8481dbcd-f6ba-4ce9-a8b7-18468b2e1344",
+                "docType": "DEGREE_CERTIFICATE",
+                "originalName": "IMG_٢٠٢٦١٠٠٨_٠٠٢١٠٨.jpg",
+                "mimeType": "image/jpeg",
+                "fileSize": 208190,
+                "uploadedAt": "2026-10-29T10:52:34.84684"
+            },
+            {
+                "id": "fcb531e6-f012-4c0e-aeb9-9287241290fb",
+                "docType": "INDIVIDUAL_RECORD",
+                "originalName": "IMG-20261007-WA0017(1).jpg",
+                "mimeType": "image/jpeg",
+                "fileSize": 149082,
+                "uploadedAt": "2026-10-29T10:52:38.730169"
+            }
+        ],
+        "additionDate": "2026-10-29",
+        "createdAt": "2026-10-29T10:52:19.435412",
+        "confirmed": true,
+        "confirmedAt": "2026-11-04T11:27:04.238187",
+        "confirmedBy": "ahmadaljamal.og",
+        "needsRequested": false
+    },
+    "timestamp": "2026-11-23T15:36:01.032460640"
+}
